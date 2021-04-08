@@ -1,0 +1,14 @@
+"C:\Program Files\JetBrains\PyCharm 2020.3.3\bin\runnerw64.exe" C:\Users\Roger\Documents\marc\CCBDA\labs\eb-django-express-signup-base\venv\Scripts\python.exe C:/Users/Roger/Documents/marc/CCBDA/labs/eb-django-express-signup-base/manage.py runserver localhost:8000
+Performing system checks...
+
+Watching for file changes with StatReloader
+System check identified no issues (0 silenced).
+March 24, 2021 - 08:36:21
+Django version 3.0.4, using settings 'eb-django-express-signup.settings'
+Starting development server at http://localhost:8000/
+Quit the server with CTRL-BREAK.
+"GET / HTTP/1.1" 200 8085
+"GET /static/favicon.ico HTTP/1.1" 200 32988
+New item added to database.
+SNS message sent.
+"POST /signup HTTP/1.1" 200 0

@@ -1,0 +1,1 @@
+botocore.exceptions.ClientError: An error occurred (AccessDeniedException) when calling the Scan operation: User: arn:aws:iam::359072603960:user/gsg-signup-user is not authorized to perform: dynamodb:Scan on resource: arn:aws:dynamodb:eu-west-1:359072603960:table/gsg-signup-table
