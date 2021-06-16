@@ -1,0 +1,283 @@
+[
+    {
+        "section": "Briefings",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Your Wednesday Briefing",
+        "article_url": "https://www.nytimes.com/2021/04/14/briefing/vaccine-blood-clots-iran-afghanistan.html",
+        "summary": "Here's what you need to know."
+    },
+    {
+        "section": "Briefings",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Listen to 'The Book Review Podcast'",
+        "article_url": "https://www.nytimes.com/2021/04/09/books/review/podcast-philip-roth-biography-blake-bailey-julia-sweig-lady-bird-johnson.html",
+        "summary": "Blake Bailey on the life and legacy of Philip Roth."
+    },
+    {
+        "section": "Briefings",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "From Serial: The Improvement Association",
+        "article_url": "https://www.nytimes.com/2021/04/13/podcasts/election-fraud-improvement-association.html",
+        "summary": "Who's been cheating in elections in Bladen County?"
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "We Need a High Wall With a Big Gate on the Southern Border",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/immigration-border-wall.html",
+        "summary": "Immigration is America's lifeblood, so we can't risk losing it."
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Pausing the Johnson & Johnson Vaccine Makes Sense",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/johnson-johnson-vaccine-fda.html",
+        "summary": "There might have been better ways to handle the situation, but officials did what they had to do."
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Your Success Probably Didn't Come From Merit Alone",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/ezra-klein-podcast-tressie-mcmillan-cottom.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Amazon's Big Win Over the Little Guy",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/amazon-alabama-union.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Coney Island Is Just What the Doctor Ordered",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/coney-island.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "We Don't Need More Life-Crushing Steel and Concrete",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/infrastructure-biden-nature.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "What to Do About Killings by the Police",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/letters/minnesota-police-killing.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Why, Despite Everything, You Should Have Kids (if You Want Them)",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/baby-bust-covid-philosophy-natalism.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "I Hoped Pinterest Would Do the Right Thing. It Didn't.",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/nda-work-discrimination.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "What Bidenism Owes to Trumpism",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/biden-trump-populism.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "The Economy That Allows You to Get Your Job Done Is Broken",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/care-economy-infrastructure-biden-child-care-elderly.html",
+        "summary": ""
+    }
+][
+    {
+        "section": "Briefings",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Your Wednesday Briefing",
+        "article_url": "https://www.nytimes.com/2021/04/14/briefing/vaccine-blood-clots-iran-afghanistan.html",
+        "summary": "Here's what you need to know."
+    },
+    {
+        "section": "Briefings",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Listen to 'The Book Review Podcast'",
+        "article_url": "https://www.nytimes.com/2021/04/09/books/review/podcast-philip-roth-biography-blake-bailey-julia-sweig-lady-bird-johnson.html",
+        "summary": "Blake Bailey on the life and legacy of Philip Roth."
+    },
+    {
+        "section": "Briefings",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "From Serial: The Improvement Association",
+        "article_url": "https://www.nytimes.com/2021/04/13/podcasts/election-fraud-improvement-association.html",
+        "summary": "Who's been cheating in elections in Bladen County?"
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "We Need a High Wall With a Big Gate on the Southern Border",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/immigration-border-wall.html",
+        "summary": "Immigration is America's lifeblood, so we can't risk losing it."
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Pausing the Johnson & Johnson Vaccine Makes Sense",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/johnson-johnson-vaccine-fda.html",
+        "summary": "There might have been better ways to handle the situation, but officials did what they had to do."
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Your Success Probably Didn't Come From Merit Alone",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/ezra-klein-podcast-tressie-mcmillan-cottom.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Amazon's Big Win Over the Little Guy",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/amazon-alabama-union.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Coney Island Is Just What the Doctor Ordered",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/coney-island.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "We Don't Need More Life-Crushing Steel and Concrete",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/infrastructure-biden-nature.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "What to Do About Killings by the Police",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/letters/minnesota-police-killing.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "Why, Despite Everything, You Should Have Kids (if You Want Them)",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/baby-bust-covid-philosophy-natalism.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "I Hoped Pinterest Would Do the Right Thing. It Didn't.",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/nda-work-discrimination.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "What Bidenism Owes to Trumpism",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/biden-trump-populism.html",
+        "summary": ""
+    },
+    {
+        "section": "Opinion",
+        "appears_ulr": "https://www.nytimes.com/",
+        "title": "The Economy That Allows You to Get Your Job Done Is Broken",
+        "article_url": "https://www.nytimes.com/2021/04/13/opinion/care-economy-infrastructure-biden-child-care-elderly.html",
+        "summary": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/letters/minnesota-police-killing.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/baby-bust-covid-philosophy-natalism.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/infrastructure-biden-nature.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/johnson-johnson-vaccine-fda.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/coney-island.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/immigration-border-wall.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/amazon-alabama-union.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/ezra-klein-podcast-tressie-mcmillan-cottom.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/biden-trump-populism.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/09/books/review/podcast-philip-roth-biography-blake-bailey-julia-sweig-lady-bird-johnson.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/14/briefing/vaccine-blood-clots-iran-afghanistan.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/nda-work-discrimination.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/opinion/care-economy-infrastructure-biden-child-care-elderly.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    },
+    {
+        "appears_ulr": "https://www.nytimes.com/2021/04/13/podcasts/election-fraud-improvement-association.html",
+        "title": "",
+        "authors": "",
+        "contents": ""
+    }
+]

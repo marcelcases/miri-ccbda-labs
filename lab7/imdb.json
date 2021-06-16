@@ -1,0 +1,506 @@
+[
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": "",
+        "actor_id": "",
+        "role_name": ""
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Morgan Freeman ",
+        "actor_id": "nm0000151",
+        "role_name": "Somerset"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Andrew Kevin Walker ",
+        "actor_id": "nm0001825",
+        "role_name": "Dead Man at 1st Crime Scene"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Daniel Zacapa ",
+        "actor_id": "nm0669254",
+        "role_name": "Detective Taylor at First Murder"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Brad Pitt ",
+        "actor_id": "nm0000093",
+        "role_name": "Mills"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Gwyneth Paltrow ",
+        "actor_id": "nm0000569",
+        "role_name": "Tracy"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " John Cassini ",
+        "actor_id": "nm0144307",
+        "role_name": "Officer Davis"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Bob Mack ",
+        "actor_id": "nm0532943",
+        "role_name": "Gluttony Victim"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Peter Crombie ",
+        "actor_id": "nm0188598",
+        "role_name": "Dr. O'Neill"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Reg E. Cathey ",
+        "actor_id": "nm0146146",
+        "role_name": "Dr. Santiago"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " R. Lee Ermey ",
+        "actor_id": "nm0000388",
+        "role_name": "Police Captain"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " George Christy ",
+        "actor_id": "nm0160690",
+        "role_name": "Workman at Door of Somerset's Office"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Endre Hules ",
+        "actor_id": "nm0401352",
+        "role_name": "Cab Driver"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Hawthorne James ",
+        "actor_id": "nm0416551",
+        "role_name": "George the Night Guard at the Library"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " William Davidson ",
+        "actor_id": "nm0203525",
+        "role_name": "First Guard at the Library"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Bob Collins ",
+        "actor_id": "nm0172172",
+        "role_name": "Second Guard at the Library"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Jimmy Dale Hartsell ",
+        "actor_id": "nm0367211",
+        "role_name": "Library Janitor"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Richard Roundtree ",
+        "actor_id": "nm0745780",
+        "role_name": "Talbot"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Charline Su ",
+        "actor_id": "nm0836772",
+        "role_name": "TV News Reporter"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Dominique Jennings ",
+        "actor_id": "nm0005051",
+        "role_name": "TV News Reporter"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Allan Kolman ",
+        "actor_id": "nm0464255",
+        "role_name": "First Forensic Man in the Law Office"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Beverly Burke ",
+        "actor_id": "nm0121602",
+        "role_name": "TV Anchor Woman"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Gene Borkan ",
+        "actor_id": "nm0096908",
+        "role_name": "Eli Gould - Greed Victim"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Julie Araskog ",
+        "actor_id": "nm0033144",
+        "role_name": "Mrs. Gould"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Mario Di Donato ",
+        "actor_id": "nm0223790",
+        "role_name": "Fingerprint Forensic Man in Law Office"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Alfonso Freeman ",
+        "actor_id": "nm0293285",
+        "role_name": "Fingerprint Technician"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " John C. McGinley ",
+        "actor_id": "nm0001525",
+        "role_name": "California"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Harrison White ",
+        "actor_id": "nm0924854",
+        "role_name": "Cop on SWAT Team"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Bob Stephenson ",
+        "actor_id": "nm0827307",
+        "role_name": "Cop on SWAT Team"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Michael Reid MacKay ",
+        "actor_id": "nm0533197",
+        "role_name": "Victor - Sloth Victim"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Kevin Spacey ",
+        "actor_id": "nm0000228",
+        "role_name": "John Doe"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Richard Portnow ",
+        "actor_id": "nm0692466",
+        "role_name": "Dr. Beardsley"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Tudor Sherrard ",
+        "actor_id": "nm0792643",
+        "role_name": "Coupon Man Outside Pizza Parlor"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Mark Boone Junior ",
+        "actor_id": "nm0095478",
+        "role_name": "Greasy F.B.I. Man"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Pamala Tyson ",
+        "actor_id": "nm0879181",
+        "role_name": "Thin Vagrant by John Doe's Apartment"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Lennie Loftin ",
+        "actor_id": "nm0517448",
+        "role_name": "Policeman Who Takes Statement from Vagrant"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Sarah Reinhardt ",
+        "actor_id": "nm0718132",
+        "role_name": "Police Sketch Artist"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Emily Wagner ",
+        "actor_id": "nm0905878",
+        "role_name": "Detective Sara at John Doe's Apartment"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Martin Serene ",
+        "actor_id": "nm0784997",
+        "role_name": "Wild Bill"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Michael Massee ",
+        "actor_id": "nm0557219",
+        "role_name": "Man in Booth at Massage Parlor"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " David Correia ",
+        "actor_id": "nm0180848",
+        "role_name": "First Cop at Massage Parlor"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Ron Blair ",
+        "actor_id": "nm0086344",
+        "role_name": "Second Cop at Massage Parlor"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Jennifer Mueller ",
+        "actor_id": "nm1788054",
+        "role_name": "Lust Victim"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Leland Orser ",
+        "actor_id": "nm0650702",
+        "role_name": "Crazed Man in Massage Parlor"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Lexie Bigham ",
+        "actor_id": "nm0081880",
+        "role_name": "Sweating Cop at Massage Parlor"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Evan Mirand ",
+        "actor_id": "nm0592030",
+        "role_name": "Paramedic at Massage Parlor"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Paul Eckstein ",
+        "actor_id": "nm0248746",
+        "role_name": "Paramedic at Massage Parlor"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Harris Savides ",
+        "actor_id": "nm0767647",
+        "role_name": "911 Operator"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Rachel Flanagan ",
+        "actor_id": "nm0769574",
+        "role_name": "Additional 911 Operator"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Heidi Schanz ",
+        "actor_id": "nm0770039",
+        "role_name": "Pride Victim"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Brian Evers ",
+        "actor_id": "nm0263634",
+        "role_name": "Duty Sergeant"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Shannon Wilcox ",
+        "actor_id": "nm0928279",
+        "role_name": "Woman Cop Behind Desk"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Richard Schiff ",
+        "actor_id": "nm0771493",
+        "role_name": "Mark Swarr"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " James Deeth ",
+        "actor_id": "nm0214426",
+        "role_name": "Helicopter Pilot"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " John Santin ",
+        "actor_id": "nm0763704",
+        "role_name": "Helicopter Pilot"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Charles A. Tamburro ",
+        "actor_id": "nm0848596",
+        "role_name": "SWAT Helicopter Pilot"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Richmond Arquette ",
+        "actor_id": "nm0037118",
+        "role_name": "Delivery Man"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Duffy Gaver ",
+        "actor_id": "nm0310484",
+        "role_name": "Marksman in Helicopter"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": "",
+        "actor_id": "",
+        "role_name": ""
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Charles S. Dutton ",
+        "actor_id": "nm0001165",
+        "role_name": "Cop"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Gregory Fennell ",
+        "actor_id": "nm1992369",
+        "role_name": "Los Angeles SWAT"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Rick Lyon ",
+        "actor_id": "nm0528975",
+        "role_name": "Ritchie Valens Impersonator"
+    },
+    {
+        "movie_id": "tt0114369",
+        "movie_name": "Se7en",
+        "movie_year": "1995",
+        "actor_name": " Arthur Max ",
+        "actor_id": "nm0561480",
+        "role_name": "Man in Library"
+    }
+]

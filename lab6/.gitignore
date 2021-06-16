@@ -1,0 +1,7 @@
+*.key
+*.cert
+q621.json
+script.js
+styles.css
+index.html
+lambda.py
