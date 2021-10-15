@@ -1,7 +1,14 @@
-# About
+# Cloud Computing and Big Data Analytics laboratory sessions
+
+Assignments of Cloud Computing and Big Data Analytics
+
+## About
+
+**Author**  
+Marcel Cases i Freixenet &lt;marcel.cases@estudiantat.upc.edu&gt;
 
 **Course**  
-Cloud Computing and Big Data Analytics  (CCBDA-MIRI)  
+Cloud Computing and Big Data Analytics (CCBDA-MIRI)  
 FIB - Universitat Politècnica de Catalunya. BarcelonaTech  
 Spring 2021
 
@@ -11,7 +18,7 @@ Spring 2021
 
 **Lab 1** [Basic knowledge toolbox to get started in the Cloud](lab1/)
 
-**Lab 2** [	Doors in the cloud](lab2/)
+**Lab 2** [Doors in the cloud](lab2/)
 
 **Lab 3** [Extracting and analyzing data from the cloud](lab3/)
 
@@ -24,4 +31,3 @@ Spring 2021
 **Lab 7** [Using the Elastic Stack to study scraped data from a web page](lab7/)
 
 **Lab 8** [Advanced Analytics as a Service in the Cloud](lab8/)
-
